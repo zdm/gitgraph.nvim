@@ -33,6 +33,7 @@ Git Graph plugin for neovim.
   {
     'isakbm/gitgraph.nvim',
     opts = {
+      git_cmd = "git",
       symbols = {
         merge_commit = 'M',
         commit = '*',
