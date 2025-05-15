@@ -16,7 +16,7 @@ Git Graph plugin for neovim.
 - ✔️ easily configurable highlight groups
 - ✔️ performant scrolling
 - ✔️ easy to follow branch crossings
-### Future 
+### Future
 - auto updating graph
 - performant load times for large repos
 
@@ -126,7 +126,7 @@ For example, use **kitty** branch symbols [more detail](https://github.com/kovid
 
 # Keymaps
 
-... more keymaps to come ... 
+... more keymaps to come ...
 
 # Highlights Groups
 
@@ -141,9 +141,8 @@ For example, use **kitty** branch symbols [more detail](https://github.com/kovid
 
 ## branch colors
 
-  - 'GitGraphBranch1' 
-  - 'GitGraphBranch2' 
-  - 'GitGraphBranch3' 
-  - 'GitGraphBranch4' 
-  - 'GitGraphBranch5' 
-
+  - 'GitGraphBranch1'
+  - 'GitGraphBranch2'
+  - 'GitGraphBranch3'
+  - 'GitGraphBranch4'
+  - 'GitGraphBranch5'
