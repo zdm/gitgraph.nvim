@@ -7,10 +7,10 @@ git fetch upstream
 git switch update-readme
 git merge --no-edit upstream/main
 
-git switch feat-msys2-support
+git switch feat-git-cmd-option
 git merge --no-edit upstream/main
 
 git switch main
-git merge --no-edit update-readme feat-msys2-support
+git merge --no-edit update-readme feat-git-cmd-option
 
 git push --all
