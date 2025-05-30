@@ -2,14 +2,14 @@
   "name": "gitgraph.nvim",
   "private": true,
   "description": "Fork of gitgraph.nvim",
-  "homepage": "https://github.com/zdm/diffview.nvim",
+  "homepage": "https://github.com/zdm/gitgraph.nvim",
   "bugs": {
-    "url": "https://github.com/zdm/diffview.nvim/issues",
+    "url": "https://github.com/zdm/gitgraph.nvim/issues",
     "email": "root <root@softvisio.net>"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zdm/diffview.nvim.git"
+    "url": "git+https://github.com/zdm/gitgraph.nvim.git"
   },
   "license": "Proprietary Software",
   "author": "root <root@softvisio.net>"
