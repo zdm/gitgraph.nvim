@@ -1,7 +1,7 @@
-# diffview\.nvim
+# gitgraph.nvim
 
-Fork of [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)
+Fork of [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim)
 
 Patches:
 
-- fix for `cygwin` based `git` (`MSYS2`, `mingw`);
+- add `git_cmd` config option;
